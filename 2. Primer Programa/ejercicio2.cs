@@ -2,7 +2,7 @@
 
 using System;
 
-namespace cubo
+namespace ejercicio2
 {
     class Program
     {
